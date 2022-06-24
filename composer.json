@@ -1,7 +1,7 @@
 {
-    "name": "tronapi/tronapi",
+    "name": "tronapiw/tronapi",
     "description": "tronapi php client library",
-    "keywords": ["tronapi"],
+    "keywords": ["tronapiw"],
     "homepage": "https://github.com/wangzheng310/tronapi",
     "license": "MIT",
     "autoload": {
