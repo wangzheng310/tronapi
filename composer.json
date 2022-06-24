@@ -2,7 +2,7 @@
     "name": "tronapi/tronapi",
     "description": "tronapi php client library",
     "keywords": ["tronapi"],
-    "homepage": "https://github.com/GG4mida/tronapi-demo-php",
+    "homepage": "https://github.com/wangzheng310/tronapi",
     "license": "MIT",
     "autoload": {
         "psr-4": {
